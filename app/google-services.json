@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "43372647094",
+    "firebase_url": "https://fir-storage-7accb.firebaseio.com",
+    "project_id": "fir-storage-7accb",
+    "storage_bucket": "fir-storage-7accb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43372647094:android:aec1ad897c4aee6a",
+        "android_client_info": {
+          "package_name": "com.example.dell.firebasestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43372647094-7a67ea1voud0r01ka0dj4r0m6cdh0g4u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.firebasestorage",
+            "certificate_hash": "c729c6a7ae3aa3c39408b60255a0d49a5685cb5b"
+          }
+        },
+        {
+          "client_id": "43372647094-gnb22ptc2inj9a8vnfdjdub67i30ifi5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE0seqNOYGJ5EfHmvRCjflj8_T9jKAWws"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43372647094-gnb22ptc2inj9a8vnfdjdub67i30ifi5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
